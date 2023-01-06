@@ -1,3 +1,3 @@
 # running command 
 
-python ./color_detection.py -i <image file>
+python ./color_detection.py -i 'image file'
